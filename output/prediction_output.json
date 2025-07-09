@@ -1,8 +1,8 @@
 {
-  "activity": "coding",
+  "activity": "messaging",
   "confidence": 0.95,
-  "description": "User is debugging or discussing Python code, specifically a script for data collection, and is using a messaging application for communication related to the code.",
-  "details": "Detected Python code in clipboard (likely a data collection script), a messaging conversation in Screen OCR discussing a Python 'os' module error and its fix, and file navigation in Finder showing output files from such a script. The messaging is directly related to a coding problem.",
-  "data_sources": "Clipboard, Screen OCR, Active Window",
-  "timestamp": 1751371270.735648
+  "description": "User is actively participating in a Google Meet video conference.",
+  "details": "Detected Google Meet URL (meet.google.com) and interface showing multiple participants. Other open tabs suggest email and algorithm-related research, but the active content is the video call.",
+  "data_sources": "Screen OCR and Active Window",
+  "timestamp": 1752039835.224294
 }

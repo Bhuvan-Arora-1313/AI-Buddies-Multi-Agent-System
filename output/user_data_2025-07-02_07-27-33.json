@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-07-02_07-27-33",
+  "active_window": "firefox",
+  "focused_text": "NVDIA Deep leaning workshop certificate",
+  "clipboard": "https://github.com/Bhuvan-Arora-1313",
+  "vscode_text": "<!DOCTYPE html>\n<html>\n  <body style=\"margin: 0; background: rgba(0,0,0,0.7); color: white; font-family: sans-serif;\">\n    <div style=\"-webkit-app-region: drag; padding: 10px; background: rgba(0,0,0,0.8);\">\n      <pre id=\"output\" style=\"white-space: pre-wrap; word-wrap: break-word;\">Waiting for data...</pre>\n    </div>\n    <script>\n      const { ipcRenderer } = require('electron');\n      ipcRenderer.on('update-prediction', (event, data) => {\n        document.getElementById('output').textContent = data;\n      });\n    </script>\n  </body>\n</html>",
+  "ocr_text": "@ Firefox File Edit View History Bookmarks Tools Window Help\n\n&OO OO 8S s%*H F Q S @ Wed Jul2 7:27AM\nee (ica) M Flipkart GRiD 7.0 | Full-Time SD: X | MY Flipkart GRID 7.0-| Prize contes X \u00a9) YouTube x \u00a9) Bhuvan-Arora-1313 x + vo\noO C a O 8 = mycareernet.in vy re) \u00a9 \u00a3=\n2\n\u00a9)\n\nInternship Project details\n\nAt CloudDefense.Al out team was given a project to work on A custom Al\nchatbot application titled Al Buddies y\n\nProvide internship details, mentioning the\ncompany name at the top if multiple internships.\n\nCertification Details\n\nLatest Certification\nType\n\nCertification\n\nCertification\n\nOthers\n\nCertification Other\nNVDIA Deep leaning workshop certificate\n\nAttach your certificate here (Supported Formats: pdf, jpg, jpeg, png; Max Size: 3\nMB)\n\nChoose File No file chosen\n\nsea0%\u00b0easea RAGE \u00a9 \u00a9 PCy"
+}

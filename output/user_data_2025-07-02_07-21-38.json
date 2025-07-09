@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-07-02_07-21-38",
+  "active_window": "firefox",
+  "focused_text": "bits pilani",
+  "clipboard": "",
+  "vscode_text": "<!DOCTYPE html>\n<html>\n  <body style=\"margin: 0; background: rgba(0,0,0,0.7); color: white; font-family: sans-serif;\">\n    <div style=\"-webkit-app-region: drag; padding: 10px; background: rgba(0,0,0,0.8);\">\n      <pre id=\"output\" style=\"white-space: pre-wrap; word-wrap: break-word;\">Waiting for data...</pre>\n    </div>\n    <script>\n      const { ipcRenderer } = require('electron');\n      ipcRenderer.on('update-prediction', (event, data) => {\n        document.getElementById('output').textContent = data;\n      });\n    </script>\n  </body>\n</html>",
+  "ocr_text": "@ Firefox File Edit View History Bookmarks Tools Window\n\nHelp \u00ae \u00a9 OB O 8S ssa Fe Q S&S @ Wed Jul2 7:21AM\nee \u00a9 M\u2122 Flipkart GRiD 7.0 | Full-Time SD: X | PAY Flipkart GRID 7.0-| Prize contes X \u00a9) YouTube x + 7\no C a \u00a9 & = mycareernet.in Ww (S) \u00a9 \u201c=\nSy)\na 17/05/2005\n\u00a9\n\nPlease enter your DOB as mentioned in your PAN card\n\nGender\n\nO Male Female | choose not to specify\n\nEducational details\n\nHighest Education Profile\n\n\"Please select your highest level of education under \u2018Education Type\u2019. If you hold both an\nundergraduate and a postgraduate degree, choose \u2018Postgraduate\u2019 as your education type.\nYou can then add your undergraduate details by clicking on the \u2018Add More\u2019 option.\"\n\nEducation Type\n\nUnder Graduate\n\nCollege\n\nBITS Pilani - Birla Institute of Technology and Science - Pilani\n\nBITS Pilani - Birla Institute of Technology and Science, Pilani\n\nYear Of Passing\n\nYear Of Passing\n\nsea0%\u00b0easea ne \u00a9 \u00a9 PCy"
+}

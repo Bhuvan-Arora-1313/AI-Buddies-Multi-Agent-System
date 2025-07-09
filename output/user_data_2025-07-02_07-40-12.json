@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-07-02_07-40-12",
+  "active_window": "firefox",
+  "focused_text": "Could not extract AXValue from focused element",
+  "clipboard": "https://github.com/Bhuvan-Arora-1313",
+  "vscode_text": "<!DOCTYPE html>\n<html>\n  <body style=\"margin: 0; background: rgba(0,0,0,0.7); color: white; font-family: sans-serif;\">\n    <div style=\"-webkit-app-region: drag; padding: 10px; background: rgba(0,0,0,0.8);\">\n      <pre id=\"output\" style=\"white-space: pre-wrap; word-wrap: break-word;\">Waiting for data...</pre>\n    </div>\n    <script>\n      const { ipcRenderer } = require('electron');\n      ipcRenderer.on('update-prediction', (event, data) => {\n        document.getElementById('output').textContent = data;\n      });\n    </script>\n  </body>\n</html>",
+  "ocr_text": "\u00e9\nee\n\nO <\n\n\u00a9 8 \u00a9\n\n(ica) \u2122 Flipkart GRiD 7.0 | Full-Time SD! X MY Flipkart GRiD 7.0-|Prizecontes X (9) YouTube x\n\nFile Edit View History Bookmarks Tools Window\u2019 Help\n\n(ws) Bhuvan-Arora-1313 x Account - Home\n\nCO O 8 = mycareernet.in\n\nInternship Details\n\nLatest Work Profile\n\nCompany\nOthers\n\nSelect Others if the company is not mentioned in the list\n\nCompany - Other\n\nCloudDefense.Al\n\nSelect Others if the company is not mentioned in the list\nSector\n\nIT\n\nDesignation\n\nProject Manager\n\nSenior Developer/SSE\nSenior Manager\nTop Management\n\nOthers\n\n2820%\u00b06RBE20\n\nG6 \u00a9OO0 8 sxe\n\nDeep Learning Institute (DLI) T\n\nx\n\nMy Learning | NVIDIA\n\nw\n\n@ Wed Jul 2 7:40AM\n\nVv"
+}
