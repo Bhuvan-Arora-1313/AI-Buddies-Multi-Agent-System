@@ -1,8 +1,0 @@
-{
-  "timestamp": "2025-07-02_07-24-36",
-  "active_window": "firefox",
-  "focused_text": "Could not extract AXValue from focused element",
-  "clipboard": "https://github.com/Bhuvan-Arora-1313",
-  "vscode_text": "<!DOCTYPE html>\n<html>\n  <body style=\"margin: 0; background: rgba(0,0,0,0.7); color: white; font-family: sans-serif;\">\n    <div style=\"-webkit-app-region: drag; padding: 10px; background: rgba(0,0,0,0.8);\">\n      <pre id=\"output\" style=\"white-space: pre-wrap; word-wrap: break-word;\">Waiting for data...</pre>\n    </div>\n    <script>\n      const { ipcRenderer } = require('electron');\n      ipcRenderer.on('update-prediction', (event, data) => {\n        document.getElementById('output').textContent = data;\n      });\n    </script>\n  </body>\n</html>",
-  "ocr_text": "\u00e9\nee\n\n0\n\n\u00a9\n\n\u00a9\n\nFile\n\n5\n\nC a\n\nEdit\n\nBookmarks Tools Window\n\nM Flipkart GRiD 7.0 | Full-Time SDE X my Flipkart GRiD 7.0- | Prize contes\n\nO 8 = mycareernet.in\n\nx (ws) Bhuvan-Arora-1313\n\nInternship Details\n\nLatest Work Profile\n\nCompany\n\nOthers\n\nSelect Others if the company is not mentioned in the list\n\nCompany - Other\n\nCloudDefense.Al\n\nSelect Others if the company is not mentioned in the list\n\nSector\n\nIT\nJuly\n\nDesignation\n\n1\nInternship\n\n8\n\nFrom Date 15\n\n22\n26/05/2025\n\n29\n\n+ Add More\n\n2\n\n9\n\n16\n\n23\n\n30\n\n2025\n\nMon Tue Wed Thu\n\ni}\n\noO 08\n\n57% @\n\n\u2014\n-\n\nQ\n\n@ Wed Jul 2 7:24AM\n\nVv"
-}

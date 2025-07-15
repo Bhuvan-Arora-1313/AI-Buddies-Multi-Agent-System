@@ -1,8 +1,0 @@
-{
-  "timestamp": "2025-07-01_18-18-23",
-  "active_window": "firefox",
-  "focused_text": "Could not extract AXValue from focused element",
-  "clipboard": "Enhanced Multi-Agent Coordination Algorithm for Drone Swarm Patrolling in Durian Orchards",
-  "vscode_text": "<!DOCTYPE html>\n<html>\n  <body style=\"margin: 0; background: rgba(0,0,0,0.7); color: white; font-family: sans-serif;\">\n    <div style=\"-webkit-app-region: drag; padding: 10px; background: rgba(0,0,0,0.8);\">\n      <pre id=\"output\" style=\"white-space: pre-wrap; word-wrap: break-word;\">Waiting for data...</pre>\n    </div>\n    <script>\n      const { ipcRenderer } = require('electron');\n      ipcRenderer.on('update-prediction', (event, data) => {\n        document.getElementById('output').textContent = data;\n      });\n    </script>\n  </body>\n</html>",
-  "ocr_text": "@ Firefox Edit \u00a9 8 \u00a9OO S sx@ FQ BS @ Tue Juli 6:18PM\n\nna | x e x Student Welfare Division x\n\nO & = swd.bits-pilani.ac.in/Student/Student-Pics-Upload.aspx Ww S\n\nil\n\nBITS - Pram |p oa iil\n\n2)\n\nDocuments\n\n\u2122 STUDENT W Recents \u2018cowards excellence...\n\nApplica... Show All (4) = =a\n\n|\n\n\u00a9\n\nDocum...\n\nDesktop\n\nImages Bhuwan_Arora_Fi BITSian_Speech_ eps speeche How_to_Not_Cop\nnal_CV.docx How_to...tress.pdf e_with_...ech.docx\n\nDownlo...\n\nSWD Home Show All (1\nbhuvan... February ow All (1)\n\nMain\nMy Profile iCloud...\n\nDues Shared\n\nCertificates\nScholarships \u00a31 Bhuvan\u2019...\nCancel Open\nClubs 8 Dia\nRAF\n\nPassport and Mess\n\nUploading Photo for\nIdCard\n\nDisciplinary Action\nDuplicate ID card\nLogOff\n\nOrientation Program\n\nStudent Welfare Division, BITS - Pilani | 2008\n\nali /)"
-}

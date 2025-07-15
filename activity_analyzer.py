@@ -1,6 +1,8 @@
 import json
 import time
+
 import os
+
 from typing import Dict, Any, List
 import subprocess
 import signal
@@ -14,9 +16,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Google Gemini API key setup
-import os
+os.environ["GOOGLE_API_KEY"] = os.getenv("GEMINI_ACTIVITY_API_KEY")
 
-os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")  # Set this externally
+
 
 # Initialize Google Gemini LLM
 llm = ChatGoogleGenerativeAI(
@@ -259,7 +261,7 @@ def main():
                 print("⏳ Waiting for new user data...")
 
             # Wait before next check
-            time.sleep(5)
+            time.sleep(10)
 
     except KeyboardInterrupt:
         print("\n👋 Activity monitor stopped by user")

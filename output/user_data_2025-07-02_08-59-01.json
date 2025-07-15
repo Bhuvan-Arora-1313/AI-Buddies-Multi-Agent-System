@@ -1,8 +1,0 @@
-{
-  "timestamp": "2025-07-02_08-59-01",
-  "active_window": "firefox",
-  "focused_text": "Could not extract AXValue from focused element",
-  "clipboard": "A UAV Patrol System Using Panoramic Stitching and Object Detection\n",
-  "vscode_text": "<!DOCTYPE html>\n<html>\n  <body style=\"margin: 0; background: rgba(0,0,0,0.7); color: white; font-family: sans-serif;\">\n    <div style=\"-webkit-app-region: drag; padding: 10px; background: rgba(0,0,0,0.8);\">\n      <pre id=\"output\" style=\"white-space: pre-wrap; word-wrap: break-word;\">Waiting for data...</pre>\n    </div>\n    <script>\n      const { ipcRenderer } = require('electron');\n      ipcRenderer.on('update-prediction', (event, data) => {\n        document.getElementById('output').textContent = data;\n      });\n    </script>\n  </body>\n</html>",
-  "ocr_text": "Firefox File Edit View History Bookmarks Tools Window\u2019 Help 3 43%8) FF Q S Wed Jul 2 8:59AM\n+\n\n= List of research papers - Google X @ Server Not Found x\nO<\u00ab i Co @ classroom.google.com/c/NzY3ODY2MTEOMzUx * 9s oy \u00a9 =\nKS)\n2\n\u00a9)\n\nHmm. We're having trouble finding that site.\n\nWe can't connect to the server at classroom.google.com.\n\nIf you entered the right address, you can:\n\ne Try again later\ne Check your network connection\n\ne Check that Firefox has permission to access the web (you might be connected but behind a firewall)\n\nTry Again\n\n. 920068820 Oe ~at"
-}

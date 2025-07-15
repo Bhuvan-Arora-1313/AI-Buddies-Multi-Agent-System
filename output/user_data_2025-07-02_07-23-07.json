@@ -1,8 +1,0 @@
-{
-  "timestamp": "2025-07-02_07-23-07",
-  "active_window": "firefox",
-  "focused_text": "Could not extract AXValue from focused element",
-  "clipboard": "https://github.com/Bhuvan-Arora-1313",
-  "vscode_text": "<!DOCTYPE html>\n<html>\n  <body style=\"margin: 0; background: rgba(0,0,0,0.7); color: white; font-family: sans-serif;\">\n    <div style=\"-webkit-app-region: drag; padding: 10px; background: rgba(0,0,0,0.8);\">\n      <pre id=\"output\" style=\"white-space: pre-wrap; word-wrap: break-word;\">Waiting for data...</pre>\n    </div>\n    <script>\n      const { ipcRenderer } = require('electron');\n      ipcRenderer.on('update-prediction', (event, data) => {\n        document.getElementById('output').textContent = data;\n      });\n    </script>\n  </body>\n</html>",
-  "ocr_text": "@ Firefox File Edit View\n\nHistory Bookmarks Tools Window _ Help\n\nFOOD0O 8 sm Fas\ne0e \u00a9) \u2122 Flipkart GRID 7.0 | Full-Time SDE X\n\nS \u00a9 Wed Jul 2 7:23AM\nmy Flipkart GRiD 7.0- | Prize contes X\n\n\u00ae YouTube x \u00a9 Bhuvan-Arora-1313 x +\n\nOo C a\n\nVv\nO 8 = mycareernet.in\n\n\u00a9 8 \u00a9\na\n\nGithub Link\n\nGithub link\n\nhttps://github.com/Bhuvan-Arora-1313\n\nPlease provide your Github profile URL (For ex.: https://github.com/yourname)\n\nInternship Details\n\nLatest Work Profile\n\nCompany\n{ ARGUE\n\nARI\n\nARI Simulation\n\nInt\u2019 ARMIET Alamuri Ratnamala Institute of Engineering and Techn...\n\nADDIC\n\nProvide internship details, mentioning the company name\nat the top if multiple internships."
-}

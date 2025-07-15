@@ -1,8 +1,8 @@
 {
-  "activity": "messaging",
+  "activity": "coding",
   "confidence": 0.95,
-  "description": "User is actively participating in a Google Meet video conference.",
-  "details": "Detected Google Meet URL (meet.google.com) and interface showing multiple participants. Other open tabs suggest email and algorithm-related research, but the active content is the video call.",
-  "data_sources": "Screen OCR and Active Window",
-  "timestamp": 1752039835.224294
+  "description": "User is actively coding in PyCharm",
+  "details": "Active window is PyCharm, focused text includes Python code imports and function definitions",
+  "data_sources": "Active Window, Screen OCR",
+  "timestamp": 1752558700.6982772
 }

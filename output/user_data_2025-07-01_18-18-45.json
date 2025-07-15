@@ -1,8 +1,0 @@
-{
-  "timestamp": "2025-07-01_18-18-45",
-  "active_window": "firefox",
-  "focused_text": "Could not extract AXValue from focused element",
-  "clipboard": "Enhanced Multi-Agent Coordination Algorithm for Drone Swarm Patrolling in Durian Orchards",
-  "vscode_text": "<!DOCTYPE html>\n<html>\n  <body style=\"margin: 0; background: rgba(0,0,0,0.7); color: white; font-family: sans-serif;\">\n    <div style=\"-webkit-app-region: drag; padding: 10px; background: rgba(0,0,0,0.8);\">\n      <pre id=\"output\" style=\"white-space: pre-wrap; word-wrap: break-word;\">Waiting for data...</pre>\n    </div>\n    <script>\n      const { ipcRenderer } = require('electron');\n      ipcRenderer.on('update-prediction', (event, data) => {\n        document.getElementById('output').textContent = data;\n      });\n    </script>\n  </body>\n</html>",
-  "ocr_text": "@ Firefox File Edit View History Bookmarks Tools Window Help \u00a9 8 OB O 8S em F Q S \u00a9 Tue Jul1 6:18PM\n\nee (ica) M_ Introducing SWD Website Enhar X 3] BITSP SWD Dues Enhancer - Ge X Student Welfare Division Vv\n\nO<\u00abc i co 0 6 = bits-pilani.ac.in \u00a9 4\n\nBITS - Pitan\n\nDISCIPLINARY WARNING\n\nSWD Home\n\nMain\n\nMy Profile\n\nDues\n\nCertificates\nScholarships\nClubs\n\nRAF\n\nPassport and Mess\n\nUploading Photo for\nIdCard\n\nDisciplinary Action\nDuplicate ID card\nLogOff\n\nOrientation Program\n\nStudent Welfare Division, BITS - Pilani | 2008\n\n220%\u00b0eEgSE2eS ODOHe"
-}

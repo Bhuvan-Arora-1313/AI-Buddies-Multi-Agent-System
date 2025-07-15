@@ -1,8 +1,0 @@
-{
-  "timestamp": "2025-07-02_08-50-44",
-  "active_window": "Finder",
-  "focused_text": "Could not extract AXValue from focused element",
-  "clipboard": "A UAV Patrol System Using Panoramic Stitching and Object Detection\n",
-  "vscode_text": "<!DOCTYPE html>\n<html>\n  <body style=\"margin: 0; background: rgba(0,0,0,0.7); color: white; font-family: sans-serif;\">\n    <div style=\"-webkit-app-region: drag; padding: 10px; background: rgba(0,0,0,0.8);\">\n      <pre id=\"output\" style=\"white-space: pre-wrap; word-wrap: break-word;\">Waiting for data...</pre>\n    </div>\n    <script>\n      const { ipcRenderer } = require('electron');\n      ipcRenderer.on('update-prediction', (event, data) => {\n        document.getElementById('output').textContent = data;\n      });\n    </script>\n  </body>\n</html>",
-  "ocr_text": "@ Finder File Edit View Go Window Help \u00ae \u00a9 @O 8S axes) Q S \u00a9 Wed Jul 2 8:50AM\n\n- OE \u00a9\n\nhelloo...veryone Screen...PM (2) pi\u00a7xami...papers\n\nMTWTF S S\n1423 4 5 6\n\n7 8 9 10 11 12 13\n14 15 16 17 18 19 20\n21 22 23 24 25 26 27\n28 29 30 31\n\nWonde...staller\n\nScreen....11PM\n\nScreen....59PM Screen... AM (2)\n\nabcdef Screen....18AM Screen....41PM\n\nScreen...PM (2)\n\nScreen....29AM\n\nScreen....25Al\n\nvscode...ext.txt\n\nScreen... AM (2)\n\nScreen....15AM =\n\nScreen....44PM\n\n9280%e8e25 Ome ~at"
-}

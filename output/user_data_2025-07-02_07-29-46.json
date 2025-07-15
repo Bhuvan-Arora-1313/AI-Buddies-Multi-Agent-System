@@ -1,8 +1,0 @@
-{
-  "timestamp": "2025-07-02_07-29-46",
-  "active_window": "firefox",
-  "focused_text": "Could not extract AXValue from focused element",
-  "clipboard": "https://github.com/Bhuvan-Arora-1313",
-  "vscode_text": "<!DOCTYPE html>\n<html>\n  <body style=\"margin: 0; background: rgba(0,0,0,0.7); color: white; font-family: sans-serif;\">\n    <div style=\"-webkit-app-region: drag; padding: 10px; background: rgba(0,0,0,0.8);\">\n      <pre id=\"output\" style=\"white-space: pre-wrap; word-wrap: break-word;\">Waiting for data...</pre>\n    </div>\n    <script>\n      const { ipcRenderer } = require('electron');\n      ipcRenderer.on('update-prediction', (event, data) => {\n        document.getElementById('output').textContent = data;\n      });\n    </script>\n  </body>\n</html>",
-  "ocr_text": "@ Firefox File Edit View History Bookmarks Tools Window Help 8 \u00a9 @ O 8S 5s%s) @ Wed Jul 2 7:29AM\n\n(ica) Flipkart GRiD 7.0 | Full-Time SDE X MY Flipkart GRiD 7.0- | Prize contes X >) YouTube x (ws) Bhuvan-Arora-1313 Sign in with NVIDIA Vv\n\noO 08 nvidia.com\n\nSI NvIIA.\n\nNVIDIA Account Portal\n\nSecurity Challenge\n\nPrivacy Policy | Legal Info | Contact Us English (US) v\n\nSeBO+eseF\u00aeo OOH G\u00ae"
-}
